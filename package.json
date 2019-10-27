@@ -1,0 +1,33 @@
+{
+  "name": "memecord",
+  "version": "3.0.1",
+  "description": "A discord bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "del docs/ -Q && jsdoc classes/ -t node_modules/docdash/ -R README.md -d docs/"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "framework"
+  ],
+  "author": "matmen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmatmen/memecord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xmatmen/memecord/issues"
+  },
+  "homepage": "https://github.com/xmatmen/memecord#readme",
+  "devDependencies": {
+    "docdash": "^0.4.0",
+    "jsdoc": "^3.4.3"
+  }
+}
