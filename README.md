@@ -52,4 +52,4 @@ client.run();
 
 ### Help
 ---
-If you don't understand something in the documentation, how to use the framework, you are experiencing problems, or you just need friends (i feel you), don't hesistate to join our [Discord Server](https://discord.gg/aRt6zMU)
+If you don't understand something in the documentation, how to use the framework, you are experiencing problems, or you just need friends (i feel you), don't hesistate to join our ~~[Discord Server](https://google.com/?q=discord)~~
